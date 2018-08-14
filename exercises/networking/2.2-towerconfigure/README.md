@@ -55,7 +55,7 @@ Click on ![ADD](add.png) button
 | **NAME**             | Ansible Workshop Credential                                           |
 | **DESCRIPTION**      | Credentials for Ansible Workshop                                      |
 | **ORGANIZATION**     | Default                                                               |
-| **CREDENTIAL TYPE**  | machine                                                               |
+| **CREDENTIAL TYPE**  | NETWORK                                                               |
 | **USERNAME**         | ec2-user                                                              |
 | **SSH Key**          | Copy paste the ssh private key from the tower node `cat ~/.ssh/aws-private.pem`  |
 
